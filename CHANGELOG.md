@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/tharinduEranga/java-maven-standard-version-sample/compare/v0.1.1...v0.1.2) (2023-02-21)
+
+
+### Features
+
+* **new:** add new test ([d660601](https://github.com/tharinduEranga/java-maven-standard-version-sample/commit/d6606013f0a2bdd734bc5370c9174a3d0e89f10e))
+
 ### [0.1.1](https://github.com/dwmkerr/java-maven-standard-version-sample/compare/v0.1.0...v0.1.1) (2020-05-19)
 
 
